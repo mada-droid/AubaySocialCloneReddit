@@ -31,6 +31,8 @@ import org.springframework.security.oauth2.server.resource.web.access.BearerToke
 import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;
 
+//https://go.slack.com/get-started/enQtNDIzMjQzODQ1NTU0Mi02ZGUxOTJkZGZkOTE0N2JiNWNmZTg5NTA4NDIzMDg2NzMwYmUxNTgwZmUwYTk1NmNiOWU0MDMzMmVjZTM4ZDQz?e=bW9oYW1lZC5tYXJ6b3VrQGF1YmF5Lml0&i=default&m=slack&x=x-a4224497273319
+
 @Configuration
 @RequiredArgsConstructor
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
